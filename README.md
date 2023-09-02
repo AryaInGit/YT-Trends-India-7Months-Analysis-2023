@@ -1,11 +1,11 @@
 # 📊📺🔍 YouTube Video Trends Analysis - India A 7-Month Journey (Jan-Jul 2023) 🕵️‍♂️📈
 
 **Project Summary:**                     
-Explore trending YouTube videos in India to gain insights into trends, **engagement, and **categories. Analyze attributes like **view count, **likes, **dislikes, and more.
+Explore trending YouTube videos in India to gain insights into trends, engagement, and categories. Analyze attributes like view count, likes, dislikes, and more.
 
 **Data Preprocessing ✨:**                     
-📥 Data Loaded: YouTube **trending video dataset and category JSON file loaded.                    
-🧹 Data Cleaned: Filled missing 'description' values, converted **categorical variables, reformatted **date-time columns.                    
+📥 Data Loaded: YouTube trending video dataset and category JSON file loaded.                    
+🧹 Data Cleaned: Filled missing 'description' values, converted categorical variables, reformatted date-time columns.                    
 
 **Exploratory Data Analysis (EDA) 📊:**
 
@@ -62,5 +62,5 @@ These insights help creators and marketers understand viewer preferences and tre
 5. Customize the analysis based on your questions.                                           
 6. Contribute, add visuals, or ask questions freely.                                                   
 
-🔗 **Dataset:** [YouTube Trending Video Dataset (updated daily)](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset)
-👤** Author:** AryaMetricsMage
+🔗 **Dataset:** [YouTube Trending Video Dataset (updated daily)](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset)                       
+👤**Author:** [AryaMetricsMage](https://github.com/AryaMetricsMage)
