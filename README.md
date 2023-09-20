@@ -63,4 +63,4 @@ These insights help creators and marketers understand viewer preferences and tre
 6. Contribute, add visuals, or ask questions freely.                                                   
 
 🔗 **Dataset:** [YouTube Trending Video Dataset (updated daily)](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset)                       
-👤**Author:** [AryaMetricsMage](https://github.com/AryaMetricsMage)
+👤**Author:** [AryaInGit](https://github.com/AryaInGit)
